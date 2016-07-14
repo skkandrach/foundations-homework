@@ -1,0 +1,7 @@
+Grade: 9 / 10
+
+Your code looks correct, but it seems that you re-ran your notebook after moving it to a separate location than where it was before (I'm assuming that it used to be located in the same folder as your data). That is probably why the first few cells are not producing the output you're looking for. 
+
+Let me know if you have more questions in lab.
+
+

@@ -1,0 +1,10 @@
+Grade: 9 / 10
+
+There is one error in your code that is preventing everything from running perfectly! 
+
+    whole_dict = []
+    for item in cursor.fetchall():
+        whole_dict.append({'name': item[0], 'elevation': decimal_to_int(item[1]), 'area': decimal_to_int(item[2]), 'type': item[3]})
+    return jsonify(everything_dict)
+    
+You should be sending `whole_dict` to jsonify, not `everything_dict`! 
