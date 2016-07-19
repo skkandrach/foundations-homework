@@ -1,0 +1,5 @@
+Grade: 8 / 10
+
+Excellent job on this assignment! I see that you skipped #12 and had some trouble pulling in the data for the last few questions -- Soma actually meant that you could type out a list of dictionaries for the additional population info for each borough. The other code you have looks correct, but depends on pulling in that data correctly. 
+
+Let me know if you have any questions! 
