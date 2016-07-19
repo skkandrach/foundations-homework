@@ -1,0 +1,3 @@
+Grade: 6 / 7
+
+You don't use the correct variable name in #6 (miami_forecast vs. forecast_miami) -- but otherwise, the code would've been correct! 
